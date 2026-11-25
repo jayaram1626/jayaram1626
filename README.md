@@ -200,7 +200,6 @@ SHAP · LIME · Fairlearn · Model cards · Datasheets · NIST AI RMF
 | 10 | **Production AI Support Ticket Triage Platform** | Production AI / MLOps | FastAPI, PostgreSQL, Docker, GitHub Actions, MLflow, AWS, Evidently | Cloud-deployed ticket classification and LLM drafting platform with CI/CD and monitoring |
 | 11 | **End-to-End AI Capstone** | Capstone | Chosen and justified through ADRs | Deployed system, benchmarks, responsible AI and a dissertation-style report |
 
----
 
 ## 🧭 What I Bring
 
@@ -213,7 +212,6 @@ GenAI          →  Transformers, LLM APIs, RAG, rerankers, agents, LLM evaluati
 Production     →  FastAPI, PostgreSQL, Docker, CI/CD, MLflow, AWS, monitoring
 ```
 
----
 
 ## 📈 GitHub Stats
 
@@ -226,7 +224,6 @@ Production     →  FastAPI, PostgreSQL, Docker, CI/CD, MLflow, AWS, monitoring
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
