@@ -44,7 +44,7 @@ I'm an **AI Engineer** who builds, evaluates, deploys and maintains real AI appl
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
 | **B.Tech – Computer Science & Engineering (AI & ML)** | Malla Reddy University, Hyderabad | 2022 – 2026 | **CGPA: 8.70** |
-| **Intermediate** | Sri Chaitanya Educational Institutions (Board of Intermediate) | — | **Marks: 559** |
+| **Intermediate** | Sri Chaitanya Educational Institutions (Board of Intermediate) | 2019-2021 | **Marks: 959** |
 
 ---
 
