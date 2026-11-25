@@ -5,9 +5,9 @@
 ### AI Engineer · Backend & GenAI · RAG · LLM Agents · MLOps
 
 [![Email](https://img.shields.io/badge/Email-panchireddyjayaram%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panchireddyjayaram@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JayaRam%20Panchireddy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaram-panchireddy-8b5b06336/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayaram--portfolio--26-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jayaram-portfolio-26.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ram6304-181717?style=flat&logo=github&logoColor=white)](https://github.com/jayaram1626)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaram-panchireddy-8b5b06336/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jayaram-portfolio-26.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jayaram1626)
 
 </div>
 
